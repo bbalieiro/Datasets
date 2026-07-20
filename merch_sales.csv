@@ -1,4 +1,4 @@
-Order ID,Order Date,Product ID,Product Category,Buyer Gender,Buyer Age,Order Location,International Shipping,Sales Price,Shipping Charges,Sales per Unit,Quantity,Total Sales,Rating,Review
+Order_ID,Order_Date,Product_ID,Product_Category,Buyer_Gender,Buyer_Age,Order_Location,International_Shipping,Sales_Price,Shipping_Charges,Sales_Unit,Quantity,Total_Sales,Rating,Review
 189440,2024-07-21,BF1543,Clothing,Male,30,New Jersey,No,100,0,100,1,100,4,The delivery team handled the product with care.
 187385,2024-07-20,BF1543,Clothing,Male,32,Las Vegas,No,100,0,100,1,100,3,Had slight delays but the product was in good shape.
 181844,2024-07-21,BF1544,Other,Female,26,Cardiff,Yes,9,40,49,1,49,2,Waste of Money.
